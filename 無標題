@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Daniel </title>
+	</head>
+	<body bgcolor="blue" text="yellow">
+	
+		<hr>
+		
+		<h1> The scientific Universe</h1>
+		
+		<hr>
+		
+		<p> bang bang bang</p>
+		<img src="kfd.jpg" alt="The Scientific Universe" height="800" width="800">
+	</body>
+</html>
